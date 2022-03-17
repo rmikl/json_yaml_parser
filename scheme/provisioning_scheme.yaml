@@ -1,0 +1,5 @@
+name: "SERVER_NAME"
+DC: "DC"
+RAM: "RAM"
+CPU: "CPU"
+ROLE: "ROLE"

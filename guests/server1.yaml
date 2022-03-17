@@ -1,0 +1,5 @@
+name: "server1"
+DC: "01"
+RAM_IN_MB: "999"
+CPU: "2"
+ROLE: "super_servery"
